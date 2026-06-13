@@ -27,7 +27,5 @@ Smart_Home_Energy_Predictor/
 
 Key Skills Demonstrated
 Large-Scale Data Engineering: Handling, parsing, and cleaning massive time-series datasets containing over 500K+ rows of raw smart-meter sensor entries.
-
 Model Operationalization: Successfully deploying a machine learning model out of an isolated training sandbox (Jupyter Notebook) directly into a portable, production-ready app service script.
-
 Defensive Software Engineering: Designing logic gates to catch boundary skews and safeguard customer-facing presentation tiers against algorithmic edge-case exceptions.
