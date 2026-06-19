@@ -2,6 +2,8 @@ Smart Home Daily Energy Cost Predictor :
 Imagine you could look into a crystal ball and see exactly how much your electricity bill would change if you ran your AC for two fewer hours today, or if the temperature outside suddenly dropped. That is exactly what this project does.
 This Smart Home Daily Energy Cost Predictor is an end-to-end Machine Learning product. It takes a massive, messy dataset of over 500,000 rows of smart-meter sensor data and transforms it into a clean, interactive web app where anyone can manipulate sliders to predict their home’s daily power bill in real-time.
 
+Live link : https://smarthomeenergypredictor-vgje9gfdexu9jy6uezfpen.streamlit.app/
+
  How It Works Under the Hood : 
 The project is split into two major halves that communicate with each other seamlessly:
 
